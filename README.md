@@ -1,4 +1,4 @@
-# :rocket: Rocketseat GoStack11's Challenges - Level 02: Database Upload
+# :rocket: Rocketseat GoStack11's Challenge 06 - Database Upload
 ## Upload CSV files to PostgreSQL using Multer 
 
 
@@ -18,6 +18,8 @@
   - [TypeORM](https://typeorm.io/)
   - [Multer](https://github.com/expressjs/multer)
   - [CSV Parse](https://csv.js.org/parse/)
+  - [VS Code](https://code.visualstudio.com/) using [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/)
+
   
 
   
