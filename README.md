@@ -7,19 +7,24 @@
 </div>
 
 ---
-![Screen Shot 2020-05-12 at 07 33 45](https://user-images.githubusercontent.com/44209758/81677076-fb0fb480-9426-11ea-9036-da19aa6febca.png)
+![Screen Shot 2020-05-13 at 09 16 26](https://user-images.githubusercontent.com/44209758/81811230-adfd1280-94fa-11ea-936a-ef7644cc58fc.png)
+---
 
 ## 🛸 Technologies
+
   - [NodeJS](https://nodejs.org/en/)
   - [Express](https://expressjs.com/pt-br/)
   - [TypeScript](https://www.typescriptlang.org/)
   - [axios](https://github.com/axios/axios)
+  - [Insomnia](https://insomnia.rest/)
   - [PostgreSQL](https://www.postgresql.org/)
   - [TypeORM](https://typeorm.io/)
   - [Multer](https://github.com/expressjs/multer)
   - [CSV Parse](https://csv.js.org/parse/)
+  - [Docker](https://www.docker.com/)
+  - [DBeaver](https://dbeaver.io/)
   - [VS Code](https://code.visualstudio.com/) using [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/)
 
-  
+---  
 
   
